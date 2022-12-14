@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\tiket bioskop.exe
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\tiket bioskop.deps.json
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\tiket bioskop.runtimeconfig.json
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\tiket bioskop.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\tiket bioskop.dll
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\ref\tiket bioskop.dll
+C:\Users\ASUS\Desktop\tiket bioskop\bin\Debug\net5.0\tiket bioskop.pdb
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.dll
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\ref\tiket bioskop.dll
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.pdb
+C:\Users\ASUS\Desktop\tiket bioskop\obj\Debug\net5.0\tiket bioskop.genruntimeconfig.cache

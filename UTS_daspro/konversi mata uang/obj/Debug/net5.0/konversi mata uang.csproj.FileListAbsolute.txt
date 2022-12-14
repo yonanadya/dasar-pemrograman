@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\konversi mata uang.exe
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\konversi mata uang.deps.json
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\konversi mata uang.runtimeconfig.json
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\konversi mata uang.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\konversi mata uang.dll
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\ref\konversi mata uang.dll
+C:\Users\ASUS\Desktop\konversi mata uang\bin\Debug\net5.0\konversi mata uang.pdb
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.dll
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\ref\konversi mata uang.dll
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.pdb
+C:\Users\ASUS\Desktop\konversi mata uang\obj\Debug\net5.0\konversi mata uang.genruntimeconfig.cache

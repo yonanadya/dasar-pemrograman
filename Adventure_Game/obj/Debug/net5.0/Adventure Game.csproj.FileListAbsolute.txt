@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\Adventure Game.exe
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\Adventure Game.deps.json
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\Adventure Game.runtimeconfig.json
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\Adventure Game.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\Adventure Game.dll
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\ref\Adventure Game.dll
+C:\Users\ASUS\Desktop\Adventure Game\bin\Debug\net5.0\Adventure Game.pdb
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.dll
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\ref\Adventure Game.dll
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.pdb
+C:\Users\ASUS\Desktop\Adventure Game\obj\Debug\net5.0\Adventure Game.genruntimeconfig.cache

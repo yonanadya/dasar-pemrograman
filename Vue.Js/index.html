@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{ background-color: lightgrey;}
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.13/dist/vue.js"></script>
+    <title>To Do App with VueJS</title>
+</head>
+<body>
+    <div id = "app">
+        <h1>To Do App (VueJS)</h1>
+        <input type="text" v-model="userInput">
+        <button v-on:click="addList">Tambah List</button>
+        <ul>
+            <li v-for="userInput in todos" v-on:click="removeUserInput(userInput)">{{userInput.name}}</li>
+         </ul>
+    </div>
+    <script>
+        var app = new Vue({
+            el:"#app",
+            data: {
+                userInput: "",
+                todos: [],
+            },
+            methods: {
+                addList: function(){
+                    var userInput = {
+                        id: Math.random(),
+                        name: this.userInput
+                    };
+
+                    this.todos.push(userInput);
+                    this.userInput = "";
+                },
+                removeUserInput: function(userInput){
+                    var newTodos = this.todos.filter(function(i)
+                      {
+                        return userInput.id !== i.id;
+                    });
+
+                    this.todos = newTodos;
+                }
+            }
+        });
+    </script>
+</body>
+</html>

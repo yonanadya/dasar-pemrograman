@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tiket bioskop/1.0.0": {
+        "runtime": {
+          "tiket bioskop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tiket bioskop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

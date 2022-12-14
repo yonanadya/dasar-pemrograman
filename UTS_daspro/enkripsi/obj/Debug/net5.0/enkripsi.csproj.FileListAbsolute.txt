@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\enkripsi.exe
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\enkripsi.deps.json
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\enkripsi.runtimeconfig.json
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\enkripsi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\enkripsi.dll
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\ref\enkripsi.dll
+C:\Users\ASUS\Desktop\enkripsi\bin\Debug\net5.0\enkripsi.pdb
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.dll
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\ref\enkripsi.dll
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.pdb
+C:\Users\ASUS\Desktop\enkripsi\obj\Debug\net5.0\enkripsi.genruntimeconfig.cache

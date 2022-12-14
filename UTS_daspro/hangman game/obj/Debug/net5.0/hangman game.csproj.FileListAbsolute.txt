@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\hangman game.exe
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\hangman game.deps.json
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\hangman game.runtimeconfig.json
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\hangman game.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\hangman game.dll
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\ref\hangman game.dll
+C:\Users\ASUS\Desktop\hangman game\bin\Debug\net5.0\hangman game.pdb
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.dll
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\ref\hangman game.dll
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.pdb
+C:\Users\ASUS\Desktop\hangman game\obj\Debug\net5.0\hangman game.genruntimeconfig.cache

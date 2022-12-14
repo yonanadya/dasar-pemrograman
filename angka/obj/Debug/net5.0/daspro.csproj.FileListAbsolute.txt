@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\daspro.exe
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\daspro.deps.json
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\daspro.runtimeconfig.json
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\daspro.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\daspro.dll
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\ref\daspro.dll
+C:\Users\ASUS\Desktop\daspro\bin\Debug\net5.0\daspro.pdb
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.dll
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\ref\daspro.dll
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.pdb
+C:\Users\ASUS\Desktop\daspro\obj\Debug\net5.0\daspro.genruntimeconfig.cache

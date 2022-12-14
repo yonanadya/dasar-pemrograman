@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\Name Tag.exe
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\Name Tag.deps.json
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\Name Tag.runtimeconfig.json
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\Name Tag.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\Name Tag.dll
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\ref\Name Tag.dll
+C:\Users\ASUS\Desktop\Name Tag\bin\Debug\net5.0\Name Tag.pdb
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.dll
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\ref\Name Tag.dll
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.pdb
+C:\Users\ASUS\Desktop\Name Tag\obj\Debug\net5.0\Name Tag.genruntimeconfig.cache

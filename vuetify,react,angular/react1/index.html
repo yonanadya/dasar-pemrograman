@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mata Kuliah</title>
+    <style>
+        .hapus{
+            color: darkblue;
+        }
+
+        li{
+            color: royalblue;
+        }
+    </style>
+</head>
+<body>
+    <div id="app"></div>
+
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+     <script type="text/babel">
+        class App extends React.Component{
+            constructor(props){
+                super(props);
+                this.state ={
+                    MataKuliah: [{
+                        id: Math.random(),
+                        message: 'Dasar Pemrograman'
+                    }],
+                    message: '',
+                    hapus: false
+                }
+            }
+
+            Add(){
+                var matkul = this.state.MataKuliah;
+                var newmatkul = {
+                    id: Math.random(),
+                    message: this.state.message
+                }
+                matkul.push(newmatkul);
+                this.setState({
+                    MataKuliah: matkul,
+                    message: ''
+                });
+            }
+
+            Remove(id){
+                var matkul = this.state.MataKuliah;
+                for(var i=0; i<matkul.length; i++){
+                    if(id==matkul[i].id){
+                        matkul.splice(i,1);
+                        break;
+                    }
+                }
+                this.setState({
+                    MataKuliah: matkul,
+                    hapus: true
+                })
+            }
+
+            updateMessage(event){
+                this.setState({
+                    message: event.target.value
+                });
+            }
+
+            render(){
+                var hapus = '';
+                if(this.state.hapus){
+                    hapus = <p>Mata Kuliah berhasil dihapus!</p>
+                    this.state.hapus = false;
+                }
+                var li = this.state.MataKuliah.map((el) => {
+                    return <li key={el.id} style={{'background-color' : 'lightgrey'}} onClick={this.Remove.bind(this, el.id)}>{el.message}</li>
+                }
+                );
+                return(
+                    <div>
+                        <h1>List Mata Kuliah</h1>
+                        <p class='hapus'>{hapus}</p>
+                        <input type="text" value={this.state.message} onChange={this.updateMessage.bind(this)} ></input>
+                        <button onClick={this.Add.bind(this)}>Tambah Mata Kuliah</button>
+                        <ul>
+                            {li}
+                        </ul>
+                    </div>
+                )
+            }
+        }
+        ReactDOM.render(<App/>,document.querySelector('#app'));
+    </script>
+</body>
+</html>
